@@ -1,1 +1,8 @@
-# python
+print (type (True) )
+print (type (None) )
+print (type(1234) )
+print (type(12.5) )
+print (type("amin") )
+print (type(False) )
+print (float(4) )
+print (int(3.1) )
